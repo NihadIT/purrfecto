@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/purrfecto/static/css/main.5d87ee5d.css",
-    "main.js": "/purrfecto/static/js/main.42b033d9.js",
+    "main.js": "/purrfecto/static/js/main.e0c7f78f.js",
     "static/js/453.5d356b32.chunk.js": "/purrfecto/static/js/453.5d356b32.chunk.js",
     "static/media/block_1.png": "/purrfecto/static/media/block_1.93d92afde21174e37c98.png",
     "static/media/prod.png": "/purrfecto/static/media/prod.b71539041e5d84fb0502.png",
@@ -25,11 +25,11 @@
     "static/media/logo_v2.png": "/purrfecto/static/media/logo_v2.367b1c0c1d20e84b87ae.png",
     "index.html": "/purrfecto/index.html",
     "main.5d87ee5d.css.map": "/purrfecto/static/css/main.5d87ee5d.css.map",
-    "main.42b033d9.js.map": "/purrfecto/static/js/main.42b033d9.js.map",
+    "main.e0c7f78f.js.map": "/purrfecto/static/js/main.e0c7f78f.js.map",
     "453.5d356b32.chunk.js.map": "/purrfecto/static/js/453.5d356b32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d87ee5d.css",
-    "static/js/main.42b033d9.js"
+    "static/js/main.e0c7f78f.js"
   ]
 }

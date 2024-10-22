@@ -1,0 +1,89 @@
+.about__philosophy {
+  position: relative;
+  height: 39em;
+  background-image: url("../assets/images/blocks/about/wall_1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.about-philosophy__body {
+  display: flex;
+  padding-bottom: 1.1em;
+}
+
+.about-philosophy__column {
+  flex: 0 1 50%;
+}
+
+.about-philosophy__content {
+  padding: 5.5em 0.625em 3.75em 4.25em;
+  max-width: 43.125em;
+  position: relative;
+  z-index: 1;
+}
+
+.about-philosophy__title {
+  font-size: 5em;
+  line-height: 0.75em;
+  margin: 0 0 0.34375em 0;
+}
+
+.about-philosophy__text p {
+  line-height: 1.3333333333em;
+  margin: 0 0 1.375em 0;
+  letter-spacing: 0.01em;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.about .skew-block {
+  margin: -1.775em 0 0 0;
+}
+
+.about .skew-block__body {
+  display: flex;
+}
+
+.about .skew-block__column {
+  height: 38em;
+}
+
+.about .skew-block__info {
+  max-width: 27.5em;
+  margin: 5.75em 0 0 5em;
+}
+
+.about .skew-block__text p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.video-block {
+  width: 100%;
+  max-width: 100vw;
+  height: auto;
+  background-color: rgb(16, 16, 16);
+  overflow: hidden;
+  position: relative;
+}
+
+.video-block__title {
+  color: rgb(234, 189, 85);
+  text-align: center;
+  padding: 20px;
+  font-size: 5vh;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+.video-block__body {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.video-block__body iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

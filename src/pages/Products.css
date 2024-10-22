@@ -1,0 +1,48 @@
+.skew-block {
+  position: relative;
+}
+
+.products .skew-block__block {
+  position: relative;
+  height: 48em;
+  background-image: url("../assets/images/blocks/block_2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.products .skew-block__img {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 40%;
+  border: 1ps solid red;
+}
+
+.products .skew-block__img img {
+  width: 60%;
+}
+
+.products .skew-block__description .title,
+.products .skew-block__description .text {
+  color: black;
+  margin: 0;
+}
+
+.products .skew-block__description {
+  position: absolute;
+  left: 60%;
+  width: 35%;
+  font-size: 1vw;
+}
+
+.products .product .swiper-pagination-bullet {
+  width: 1em !important;
+  height: 1em !important;
+  background-color: black !important;
+}
+
+.products_title {
+  color: #fff;
+  margin: 0 0 2.8em 0;
+}
+

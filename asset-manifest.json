@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/purrfecto/static/css/main.5d87ee5d.css",
+    "main.js": "/purrfecto/static/js/main.42b033d9.js",
+    "static/js/453.5d356b32.chunk.js": "/purrfecto/static/js/453.5d356b32.chunk.js",
+    "static/media/block_1.png": "/purrfecto/static/media/block_1.93d92afde21174e37c98.png",
+    "static/media/prod.png": "/purrfecto/static/media/prod.b71539041e5d84fb0502.png",
+    "static/media/main_slide_2.png": "/purrfecto/static/media/main_slide_2.642b3995bd46eca751b9.png",
+    "static/media/wall_2.png": "/purrfecto/static/media/wall_2.24b4b6e48869eac260b6.png",
+    "static/media/main_slide_1.png": "/purrfecto/static/media/main_slide_1.032c53e4d229040e2b3b.png",
+    "static/media/wall_1.png": "/purrfecto/static/media/wall_1.10f9c7beecb00743eb98.png",
+    "static/media/block_1_mob.png": "/purrfecto/static/media/block_1_mob.73eb56c7c66e474a7e8d.png",
+    "static/media/product_11.png": "/purrfecto/static/media/product_11.220175c7c75ad8545adb.png",
+    "static/media/product_4.png": "/purrfecto/static/media/product_4.e785950c40cea525d607.png",
+    "static/media/product_7.png": "/purrfecto/static/media/product_7.e330de5f1608ce13748c.png",
+    "static/media/product_6.png": "/purrfecto/static/media/product_6.acd7763bfc83f3c3aa36.png",
+    "static/media/product_5.png": "/purrfecto/static/media/product_5.e12335e88878260e6013.png",
+    "static/media/product_10.png": "/purrfecto/static/media/product_10.38e7aff0d500916a7336.png",
+    "static/media/product_1.png": "/purrfecto/static/media/product_1.e93a86b5fae34b2669b4.png",
+    "static/media/product_3.png": "/purrfecto/static/media/product_3.b0eefcd374d96b08c0a3.png",
+    "static/media/product_9.png": "/purrfecto/static/media/product_9.44b0d9ef6bbc506d2ae0.png",
+    "static/media/product_2.png": "/purrfecto/static/media/product_2.f2f54c6251b9527018fa.png",
+    "static/media/product_8.png": "/purrfecto/static/media/product_8.3e6be4e9946f74dd8a93.png",
+    "static/media/block_2.png": "/purrfecto/static/media/block_2.d3f7c238d880d5d50ab8.png",
+    "static/media/logo_v2.png": "/purrfecto/static/media/logo_v2.367b1c0c1d20e84b87ae.png",
+    "index.html": "/purrfecto/index.html",
+    "main.5d87ee5d.css.map": "/purrfecto/static/css/main.5d87ee5d.css.map",
+    "main.42b033d9.js.map": "/purrfecto/static/js/main.42b033d9.js.map",
+    "453.5d356b32.chunk.js.map": "/purrfecto/static/js/453.5d356b32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d87ee5d.css",
+    "static/js/main.42b033d9.js"
+  ]
+}
